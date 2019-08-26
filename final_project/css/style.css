@@ -1,0 +1,31 @@
+body {
+  background-color: grey;
+  color: white;
+  font-family: "Lexend Deca", "Serif"
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-style: italic;
+  font-size: 40px;
+  background-color: grey;
+  border: 10px solid black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 24px;
+}
